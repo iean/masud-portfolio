@@ -37,6 +37,25 @@
                 [innerHTML]="jobDescriptionParagraph | translate"
               ></p>
               <span></span>
+              <div  *ngFor="
+              let pastRole of job.PastRoles;
+              let j = index
+            " class="mt-4">
+            <h4 class="title-tab-content">
+              {{ pastRole.Title }}
+            </h4>
+            <h5 class="job-time">{{ pastRole.Date }}</h5>
+
+            <p
+            *ngFor="
+              let jobDescriptionParagraph of pastRole.Description;
+              let i = index
+            "
+            class="job-description"
+            [innerHTML]="jobDescriptionParagraph | translate"
+          ></p>
+          <span></span>
+              </div>
             </ng-template>
           </li>
         </ul>
