@@ -13,6 +13,13 @@ body {
   font-family: $MainFont;
   font-size: 20px;
 }
+main.fillHeight {
+  padding: 0px 150px;
+}
+main {
+  margin: 0px auto;
+  width: 100%;
+}
 .section-box {
   padding: 130px 0;
 }
