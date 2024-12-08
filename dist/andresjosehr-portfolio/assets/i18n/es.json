@@ -4,7 +4,7 @@
   "Header.Item3": "Proyectos",
   "Header.Item4": "Contacto",
   "Header.cvBtn": "Curriculum",
-  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+  "Header.cvName": "CV_Mohammad_Masud-Alam.pdf",
 
   "Banner.Pretitle": "Hola! Mi nombre es",
   "Banner.Description": "Tengo <span class='underline'>8 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y  <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
@@ -127,9 +127,6 @@
       "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
     },
 
-
-
-
     {
       "Title": "Vas Aviation",
       "Description": "Aplicación de seguimiento de solicitudes para combustible de aeronaves. Cuenta con <span class='underline'>modulo de correo electronico</span>, <span class='underline'>notificaciones en tiempo real</span>, <span class='underline'>manejo de archivos CSV para importación de datos</span>, <span class='underline'>cotizaciones de precio</span>. Etc. Desarrollada en <span class='underline'>Angular</span> y <span class='underline'>laravel</span>",
@@ -166,9 +163,15 @@
         "assets/images/mbelectronics/capture1.png",
         "assets/images/mbelectronics/capture2.png"
       ],
-      "Technologies": ["Wordpress", "Elementor", "Woocommerce", "Wordpress Codex", "PHP", "Mysql"]
+      "Technologies": [
+        "Wordpress",
+        "Elementor",
+        "Woocommerce",
+        "Wordpress Codex",
+        "PHP",
+        "Mysql"
+      ]
     },
-
 
     {
       "Title": "Agrourbana",

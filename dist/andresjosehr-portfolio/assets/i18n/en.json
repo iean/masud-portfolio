@@ -4,17 +4,17 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
+  "Header.cvName": "CV_Mohammad_Masud-Alam.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>13 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>.NET Core</span>, applying good practices and development standards.",
+  "Banner.Description": "Welcome to my website! I’m a Full Stack Product Developer passionate about building innovative, user-centric solutions from the ground up. With expertise across both front-end and back-end development, I create seamless, scalable products that drive growth and enhance user experience.<br> <br>I have <span class='underline'>13 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>.NET Core</span>, applying good practices and development standards.",
   "Banner.ActionBtn": "Say Hi",
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "In <span class='underline'>13 years of experience</span> I have covered many roles: <span class='underline'>Development Technical Lead</span>, <span class='underline'>Senior Full Stack Software Engineer</span>, <span class='underline'>Full Stack Developer</span>, and <span class='underline'>Senior Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
-    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
-    "I also program things for my personal use, whether for hobby or utility.",
+    "As a Senior Technical Lead, I bring a wealth of experience in guiding technical teams to deliver impactful, scalable solutions. I specialize in bridging the gap between <span class='underline'> business goals and technology</span>, ensuring the development of <span class='underline'> high-quality software</span> that aligns with organizational objectives. ",
+    "With a strong focus on mentorship, innovation, and problem-solving, I drive teams toward success by fostering collaboration, implementing best practices, and leveraging cutting-edge technologies. My goal is to inspire excellence and deliver results that make a meaningful difference.",
+    "In my <span class='underline'>13 years of experience</span> I have played a role in implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
     "Some of the technologies I have trained and worked with include (but are not limited to):"
   ],
 

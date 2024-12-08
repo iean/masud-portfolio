@@ -99,8 +99,8 @@
     font-size: 18px;
 
     &:before {
-      content: "▹";
-      position: absolute;
+      content: "▹ ";
+      // position: absolute;
       left: 0;
       color: $Green;
     }
@@ -110,7 +110,13 @@
 @media (max-width: 768px) {
   .jobs {
     .job-description {
-      padding: 0px;
+      padding: 10px;
+    }
+    &:before {
+      content: "▹";
+      position: fixed;
+      left: 0;
+      color: $Green;
     }
   }
   ::ng-deep .jobs-tabs {

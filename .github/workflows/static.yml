@@ -4,7 +4,7 @@ name: Deploy Angular app to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: ["master_a"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18.13' # Nueva versión mínima compatible con Angular CLI
+          node-version: "18.13" # Nueva versión mínima compatible con Angular CLI
 
       - name: Install dependencies
         run: npm install
@@ -50,7 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload Angular build output directory
-          path: 'dist/andresjosehr-portfolio'
+          path: "dist/andresjosehr-portfolio"
 
       - name: Deploy to GitHub Pages
         id: deployment
